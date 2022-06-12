@@ -140,7 +140,6 @@ const unknownEndpoint = (req, res, next) => {
 
 app.use(unknownEndpoint)
 
-
 const errorHandler = (error, req, res, next) => {
     console.log(error.message)
 
