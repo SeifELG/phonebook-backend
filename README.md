@@ -4,8 +4,9 @@ This is the backend of a full stack phonebook application, created as part of th
 
 The full stack app is hosted live at https://boiling-cove-69257.herokuapp.com/
 
-
 The `./build` folder contains a production ready build of the frontend, built with React.
+
+The front end repo can be found at https://github.com/SeifELG/phonebook-frontend
 
 ## Full Stack Outline
 
